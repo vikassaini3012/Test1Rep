@@ -12,7 +12,7 @@ public class Inherit extends UserInput
 	public static void main(String[] args) 
 	
 	{
-		int a = 5;
+		int a = 6;
 		
 		Inherit vikas = new Inherit();
 		vikas.method01();

@@ -13,7 +13,7 @@ public class quick
 		System.out.print("Enter the number to get factorial # : ");
 	
 		facnum = number.nextInt();
-		System.out.println("FFactorial or Number:"+facnum);
+		System.out.println("actorial or Number:"+facnum);
 		
 		for (i=1;i<=facnum;i++)
 			{
