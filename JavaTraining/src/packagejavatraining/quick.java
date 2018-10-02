@@ -24,7 +24,7 @@ public class quick
 	}	
 	public static void main(String[] args) 
 	{
-		int  v =6;
+		int  v =7;
 		quick dd = new quick();
 		dd.factorial();
 	}
